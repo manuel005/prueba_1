@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'primer-sitio'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_6a29d4e0ae8748aa95e6c7cda47f199d }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_8bf58365d14d41989e8376652e029706 }}
